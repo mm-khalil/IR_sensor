@@ -11,3 +11,7 @@ In order to connect IR sensor Digital or Analog with Arduino and to write a publ
   <br/>
   Fig.
 </p>
+
+
+# YOUTUBE VIDEO LINK:
+https://youtu.be/gUilHSGGWyk
